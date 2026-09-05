@@ -119,11 +119,11 @@ public class NguyenMinhQuang {
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 💻 GitHub | https://github.com/MinhQuangNguyen321 |
+| Platform    | Link                                          |
+| ----------- | --------------------------------------------- |
+| 💻 GitHub   | https://github.com/MinhQuangNguyen321         |
 | 💼 LinkedIn | https://www.linkedin.com/in/minhquang-nguyen/ |
-| 📧 Email | **nmquang132007@gmail.com** |
+| 📧 Email    | **nmquang132007@gmail.com**                   |
 
 </div>
 
@@ -133,7 +133,7 @@ public class NguyenMinhQuang {
 
 ### ⚡ Thanks for visiting my profile!
 
-*"Every expert was once a beginner."*
+_"Every expert was once a beginner."_
 
 </div>
 
@@ -278,21 +278,21 @@ System Design
 
 <div align="center">
 
-| Phase | Status | Progress |
-|:------:|:------:|:-------:|
-| 🌱 HTML / CSS | ✅ | ██████████ |
-| ⚡ JavaScript | ✅ | ██████████ |
-| 💙 TypeScript | ✅ | ██████████ |
-| ⚛ React | ✅ | ██████████ |
-| ▲ Next.js | ✅ | ██████████ |
-| 🎨 Styling | ✅ | ██████████ |
-| 🔄 State Management | ✅ | ██████████ |
-| ☕ Java Core | 🚀 | ██████░░░░ |
-| 🗄 SQL Server | 🚀 | █████░░░░░ |
-| 🍃 Spring Boot | ⏳ | ███░░░░░░░ |
-| 🐳 Docker | ⏳ | ██░░░░░░░░ |
-| ☁ AWS | ⏳ | █░░░░░░░░░ |
-| 🏛 System Design | 📅 | ░░░░░░░░░░ |
+|        Phase        | Status |  Progress  |
+| :-----------------: | :----: | :--------: |
+|    🌱 HTML / CSS    |   ✅   | ██████████ |
+|    ⚡ JavaScript    |   ✅   | ██████████ |
+|    💙 TypeScript    |   ✅   | ██████████ |
+|       ⚛ React       |   ✅   | ██████████ |
+|      ▲ Next.js      |   ✅   | ██████████ |
+|     🎨 Styling      |   ✅   | ██████████ |
+| 🔄 State Management |   ✅   | ██████████ |
+|    ☕ Java Core     |   🚀   | ██████░░░░ |
+|    🗄 SQL Server    |   🚀   | █████░░░░░ |
+|   🍃 Spring Boot    |   ⏳   | ███░░░░░░░ |
+|      🐳 Docker      |   ⏳   | ██░░░░░░░░ |
+|        ☁ AWS        |   ⏳   | █░░░░░░░░░ |
+|  🏛 System Design   |   📅   | ░░░░░░░░░░ |
 
 </div>
 
@@ -361,6 +361,7 @@ while (true) {
 > **Great software isn't built in one day. It's built one commit at a time.**
 
 ---
+
 <!-- ===================================================== -->
 <!--               GITHUB INTELLIGENCE DASHBOARD           -->
 <!-- ===================================================== -->
@@ -442,13 +443,13 @@ src="https://github-profile-trophy.vercel.app/?username=MinhQuangNguyen321&theme
 
 <div align="center">
 
-| 💻 Experience | 🎯 Focus | 📚 Learning |
-|:-------------:|:-------:|:-----------:|
+|     💻 Experience      |   🎯 Focus   |   📚 Learning    |
+| :--------------------: | :----------: | :--------------: |
 | Full Stack Development | Java Backend | Spring Ecosystem |
 
 | 🌱 Current Stack | 🚀 Next Goal | 💼 Career Goal |
-|:---------------:|:------------:|:--------------:|
-| React + Next.js | Spring Boot | Backend Intern |
+| :--------------: | :----------: | :------------: |
+| React + Next.js  | Spring Boot  | Backend Intern |
 
 </div>
 
@@ -575,6 +576,7 @@ src="https://raw.githubusercontent.com/MinhQuangNguyen321/MinhQuangNguyen321/out
 </div>
 
 ---
+
 <!-- ===================================================== -->
 <!--               AI ENGINEERING DASHBOARD                -->
 <!-- ===================================================== -->
@@ -704,13 +706,13 @@ Software Engineer
 
 <div align="center">
 
-| Mission | Progress |
-|----------|----------|
-| ☕ Java Core | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ |
-| 🗄 SQL Server | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ |
-| 🍃 Spring Boot | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ |
-| 🐳 Docker | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| ☁ AWS | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Mission          | Progress             |
+| ---------------- | -------------------- |
+| ☕ Java Core     | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ |
+| 🗄 SQL Server    | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ |
+| 🍃 Spring Boot   | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ |
+| 🐳 Docker        | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| ☁ AWS            | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
 | 🏗 System Design | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
 
 </div>
@@ -808,6 +810,7 @@ If you enjoy my projects, don't forget to ⭐ them.
 </div>
 
 ---
+
 <!-- ========================================================= -->
 <!--                    AI OPERATING SYSTEM                     -->
 <!-- ========================================================= -->
@@ -865,26 +868,19 @@ Every day I strive to become a better Software Engineer than I was yesterday.
 # 🧠 Identity
 
 ```yaml
-Name:
-  Nguyễn Minh Quang
+Name: Nguyễn Minh Quang
 
-University:
-  University of Information Technology
+University: University of Information Technology
 
-Major:
-  Computer Science
+Major: Computer Science
 
-Current Year:
-  2
+Current Year: 2
 
-Current Goal:
-  Java Backend Internship
+Current Goal: Java Backend Internship
 
-Dream Career:
-  Software Engineer
+Dream Career: Software Engineer
 
-Current Status:
-  Building...
+Current Status: Building...
 ```
 
 ---
@@ -980,6 +976,7 @@ Learning...
 
 ```cpp
 while(alive){
+
 
     Learn();
 
