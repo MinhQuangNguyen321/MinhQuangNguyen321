@@ -1,17 +1,25 @@
-<h1 align="center">Hi 👋, I'm Bin</h1>
-<h3 align="center">First-year Software Engineering student @ UIT (VNU-HCM) | Aspiring Java Backend Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F86FF,100:7952B3&height=200&section=header&text=Hi%20there,%20I'm%20Quang%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<h3 align="center">Second-year Computer Science student @ UIT (VNU-HCM) | Aspiring Java Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F86FF&center=true&vCenter=true&width=500&lines=Building+with+React+%2B+Spring+Boot;Learning+Java+backend+one+step+at+a+time;Targeting+a+backend+internship+by+year+2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F86FF&center=true&vCenter=true&width=600&lines=Building+with+React+%2B+Spring+Boot;Learning+Java+backend+one+step+at+a+time;Targeting+a+backend+internship+by+year+2" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=2F86FF&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=2F86FF" alt="followers" />
 </p>
 
 ---
 
 ### 🚀 About me
 
-- 🎓 First-year Software Engineering student at **University of Information Technology (UIT), VNU-HCM**
+- 🎓 Second-year Computer Science student at **University of Information Technology (UIT), VNU-HCM**
 - 🎯 Goal: land a **Java backend internship** by my second year
-- 🛠️ Current main stack: **React + Spring Boot + MySQL + JWT**
+- 🛠️ Current main stack: **React + Spring Boot + SQL Server + JWT**
 - 📚 Currently building a full-stack **CV/Portfolio project** as the capstone of my self-study roadmap
 - 💬 Ask me about: React, TypeScript, or frontend UI/UX
 
@@ -22,38 +30,19 @@
 **Frontend**
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,bootstrap,tailwind,redux" />
 </p>
 
 **Tools & DevOps**
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions" />
 </p>
 
 **Backend (in progress ⏳)**
 
 <p>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=java,spring,sql server,postman,docker,aws" />
 </p>
 
 ---
@@ -102,6 +91,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 <p align="center">📫 Let's connect — always open to chat about frontend, backend, or the job market for new grads!</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7952B3,100:2F86FF&height=100&section=footer" />
+</p>
