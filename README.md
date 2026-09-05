@@ -42,7 +42,7 @@
 **Backend (in progress ⏳)**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,sql server,postman,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mssql,postman,docker,aws" />
 </p>
 
 ---
