@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=2F86FF&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=2F86FF" alt="followers" />
+  <img src="https://img.shields.io/github/followers/MinhQuangNguyen321?label=Followers&style=flat&color=2F86FF" alt="followers" />
 </p>
 
 ---
