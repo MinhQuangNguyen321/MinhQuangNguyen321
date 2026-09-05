@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=650&height=50&lines=Computer+Science+Sophomore+%40+UIT+(VNU-HCM)+%F0%9F%8E%93;Frontend+Specialist%3A+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%9A%A1;Backend+in+Sprint%3A+Java+Core+%E2%80%A2+Spring+Boot+%E2%80%A2+SQL+Server+%E2%98%95;Targeting+Software+Engineer+%2F+Java+Backend+Internship+2025-2026+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=800&height=50&lines=Computer+Science+Sophomore+%40+UIT+(VNU-HCM)+%F0%9F%8E%93;Frontend%3A+React+%E2%80%A2+Next.js+(App+Router)+%E2%80%A2+TypeScript+%E2%9A%A1;Backend+Sprint%3A+Java+Core+%E2%80%A2+Spring+Boot+%E2%80%A2+SQL+Server+%E2%98%95;Seeking+Software+Engineer+%2F+Backend+Internship+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <!-- Quick Status Badges -->
