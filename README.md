@@ -60,30 +60,9 @@
     "title": "Computer Science Student @ UIT | Software Engineer in Progress",
     "education": "University of Information Technology (UIT), VNU-HCM (Sophomore / Year 2)",
     "mission": "Architecting resilient, high-throughput enterprise backends paired with modern frontend excellence",
-    "mastered": [
-      "HTML5/CSS3/SCSS",
-      "JavaScript (ES6+)",
-      "TypeScript",
-      "React 19",
-      "Next.js 16 (App Router)",
-      "Tailwind",
-      "Redux/Zustand",
-      "TanStack Query",
-      "CI/CD GitHub Actions"
-    ],
-    "active_sprint": [
-      "Java Core (Multithreading/Streams/OOP)",
-      "SQL Server",
-      "Spring Boot 3",
-      "Postman API Design"
-    ],
-    "roadmap_target": [
-      "Microservices Architecture",
-      "Docker",
-      "AWS (EC2, S3, RDS)",
-      "System Design",
-      "DSA LeetCode"
-    ],
+    "mastered": ["HTML5/CSS3/SCSS", "JavaScript (ES6+)", "TypeScript", "React 19", "Next.js 16 (App Router)", "Tailwind", "Redux/Zustand", "TanStack Query", "CI/CD GitHub Actions"],
+    "active_sprint": ["Java Core (Multithreading/Streams/OOP)", "SQL Server", "Spring Boot 3", "Postman API Design"],
+    "roadmap_target": ["Microservices Architecture", "Docker", "AWS (EC2, S3, RDS)", "System Design", "DSA LeetCode"],
     "status": "Ready for Software Engineer / Java Backend Internship 2025-2026"
   }
 }
@@ -170,7 +149,6 @@
 <div align="center">
 
 #### 🌐 Frontend & Client-Side Mastery `[✅ 100% Completed]`
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,redux" />
 </p>
@@ -180,7 +158,6 @@
 <br />
 
 #### ⚙️ Backend, Persistence & System Core `[⏳ Active Sprint ~75%]`
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mssql,postman,docker,aws,git,githubactions" />
 </p>
@@ -201,20 +178,20 @@ Microservices, Docker & AWS [██████████░░░░░░░
 DSA & Mock Interview Prep   [████████████████░░░░░░░░░░░░░░]  55% (Daily Grinding)
 ```
 
-| Domain                      | Milestones & Technologies                                           | Target Application                                               |                                                    Status                                                     |
-| :-------------------------- | :------------------------------------------------------------------ | :--------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------: |
-| **Frontend Foundation**     | HTML5, CSS3, SCSS, Bootstrap, Tailwind CSS                          | Pixel-perfect, accessible, mobile-first responsive UIs           | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" />  |
-| **Modern JS & TS**          | JavaScript (ES6+), Strict TypeScript, Generics, Async/Await         | Enterprise type safety, zero-runtime-error discipline            | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" />  |
-| **React & Next.js 16**      | React 19, Next.js 16 App Router, Server Actions, SSR/SSG/ISR        | High-throughput web applications with sub-second LCP             | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" />  |
-| **State & Cache Layer**     | Redux Toolkit, Zustand, TanStack Query                              | Client state isolation, optimistic updates, cache invalidation   | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" />  |
-| **Version & CI/CD**         | Git, GitHub Flow, Semantic Commits, GitHub Actions                  | Automated build integrity, code quality gates, continuous deploy | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" />  |
-| **Java Core & Concurrency** | OOP Principles, Collections Framework, Multithreading, Stream API   | High-concurrency backend foundational computing                  |  <img src="https://img.shields.io/badge/IN%20SPRINT-38bdf8?style=flat-square&logo=clock&logoColor=white" />   |
-| **Relational Database**     | Microsoft SQL Server (T-SQL, Stored Procedures, Index Tuning)       | Normalized relational storage, sub-millisecond query execution   |  <img src="https://img.shields.io/badge/IN%20SPRINT-38bdf8?style=flat-square&logo=clock&logoColor=white" />   |
-| **Spring Boot & Postman**   | Spring Boot 3, Spring Security (JWT), Data JPA, Postman Collections | Production-ready RESTful APIs with automated integration tests   |  <img src="https://img.shields.io/badge/IN%20SPRINT-38bdf8?style=flat-square&logo=clock&logoColor=white" />   |
-| **Containers & Cloud**      | Docker, Docker Compose, AWS Fundamentals (EC2, S3, RDS)             | Isolated containerized services with cloud elasticity            |   <img src="https://img.shields.io/badge/UPCOMING-f59e0b?style=flat-square&logo=target&logoColor=white" />    |
-| **Microservices & System**  | Service Discovery, API Gateway, Message Queues, High Availability   | Scalable distributed architectures & system design trade-offs    |   <img src="https://img.shields.io/badge/UPCOMING-f59e0b?style=flat-square&logo=target&logoColor=white" />    |
-| **DSA & Problem Solving**   | LeetCode Patterns (Arrays, Trees, Graphs, Dynamic Programming)      | Analytical reasoning and algorithm optimization                  |   <img src="https://img.shields.io/badge/ACTIVE-818cf8?style=flat-square&logo=leetcode&logoColor=white" />    |
-| **Career & Interview**      | Technical CV, System Design Mock, Deep Technical Interviews         | Securing 2025/2026 Software Engineer Internship                  | <img src="https://img.shields.io/badge/TARGET%202025-ec4899?style=flat-square&logo=target&logoColor=white" /> |
+| Domain | Milestones & Technologies | Target Application | Status |
+| :--- | :--- | :--- | :---: |
+| **Frontend Foundation** | HTML5, CSS3, SCSS, Bootstrap, Tailwind CSS | Pixel-perfect, accessible, mobile-first responsive UIs | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" /> |
+| **Modern JS & TS** | JavaScript (ES6+), Strict TypeScript, Generics, Async/Await | Enterprise type safety, zero-runtime-error discipline | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" /> |
+| **React & Next.js 16** | React 19, Next.js 16 App Router, Server Actions, SSR/SSG/ISR | High-throughput web applications with sub-second LCP | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" /> |
+| **State & Cache Layer**| Redux Toolkit, Zustand, TanStack Query | Client state isolation, optimistic updates, cache invalidation | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" /> |
+| **Version & CI/CD** | Git, GitHub Flow, Semantic Commits, GitHub Actions | Automated build integrity, code quality gates, continuous deploy | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" /> |
+| **Java Core & Concurrency** | OOP Principles, Collections Framework, Multithreading, Stream API | High-concurrency backend foundational computing | <img src="https://img.shields.io/badge/IN%20SPRINT-38bdf8?style=flat-square&logo=clock&logoColor=white" /> |
+| **Relational Database** | Microsoft SQL Server (T-SQL, Stored Procedures, Index Tuning) | Normalized relational storage, sub-millisecond query execution | <img src="https://img.shields.io/badge/IN%20SPRINT-38bdf8?style=flat-square&logo=clock&logoColor=white" /> |
+| **Spring Boot & Postman** | Spring Boot 3, Spring Security (JWT), Data JPA, Postman Collections | Production-ready RESTful APIs with automated integration tests | <img src="https://img.shields.io/badge/IN%20SPRINT-38bdf8?style=flat-square&logo=clock&logoColor=white" /> |
+| **Containers & Cloud** | Docker, Docker Compose, AWS Fundamentals (EC2, S3, RDS) | Isolated containerized services with cloud elasticity | <img src="https://img.shields.io/badge/UPCOMING-f59e0b?style=flat-square&logo=target&logoColor=white" /> |
+| **Microservices & System** | Service Discovery, API Gateway, Message Queues, High Availability | Scalable distributed architectures & system design trade-offs | <img src="https://img.shields.io/badge/UPCOMING-f59e0b?style=flat-square&logo=target&logoColor=white" /> |
+| **DSA & Problem Solving** | LeetCode Patterns (Arrays, Trees, Graphs, Dynamic Programming) | Analytical reasoning and algorithm optimization | <img src="https://img.shields.io/badge/ACTIVE-818cf8?style=flat-square&logo=leetcode&logoColor=white" /> |
+| **Career & Interview** | Technical CV, System Design Mock, Deep Technical Interviews | Securing 2025/2026 Software Engineer Internship | <img src="https://img.shields.io/badge/TARGET%202025-ec4899?style=flat-square&logo=target&logoColor=white" /> |
 
 ---
 
