@@ -1,14 +1,18 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,25:111827,55:4f46e5,85:06b6d4,100:3b82f6&height=230&section=header&text=Minh%20Quang%20Nguyen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Sophomore%20@%20UIT%20(VNU-HCM)%20%7C%20Full-Stack%20%2B%20Backend%20Engineer&descSize=16&descColor=cbd5e1&descAlignY=58" width="100%" />
-
-  <!-- Animated Typing Subtitle -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=800&height=50&lines=Computer+Science+Sophomore+%40+UIT+(VNU-HCM)+%F0%9F%8E%93;Frontend%3A+React+%E2%80%A2+Next.js+(App+Router)+%E2%80%A2+TypeScript+%E2%9A%A1;Backend+Sprint%3A+Java+Core+%E2%80%A2+Spring+Boot+%E2%80%A2+SQL+Server+%E2%98%95;Seeking+Software+Engineer+%2F+Backend+Internship+%F0%9F%9A%80" alt="Typing SVG" />
+  <!-- ==================== 1. CUSTOM CYBERPUNK HUD BANNER ==================== -->
+  <a href="https://github.com/MinhQuangNguyen321">
+    <img src="./assets/banner.svg" alt="Nguyễn Minh Quang - Cyberpunk Hero Banner" width="100%" />
   </a>
 
-  <!-- Quick Status Badges -->
+  <!-- ==================== 2. DYNAMIC TYPING TERMINAL ==================== -->
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=800&height=45&lines=Computer+Science+Student+%40+UIT+(VNU-HCM)+%F0%9F%8E%93;Frontend+Specialist%3A+React+%E2%80%A2+Next.js+16+(App+Router)+%E2%80%A2+TypeScript+%E2%9A%A1;Backend+Sprint%3A+Java+Core+%E2%80%A2+Spring+Boot+%E2%80%A2+SQL+Server+%E2%98%95;Seeking+Software+Engineer+%2F+Backend+Internship+2025-2026+%F0%9F%9A%80" alt="Typing Subtitle" />
+    </a>
+  </p>
+
+  <!-- ==================== 3. TELEMETRY BADGES ==================== -->
   <p align="center">
     <a href="https://komarev.com/ghpvc/?username=MinhQuangNguyen321">
       <img src="https://komarev.com/ghpvc/?username=MinhQuangNguyen321&label=PROFILE%20VIEWS&color=4f46e5&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
@@ -19,27 +23,27 @@
     <a href="https://www.uit.edu.vn/">
       <img src="https://img.shields.io/badge/CAMPUS-UIT%20--%20VNUHCM-6366f1?style=for-the-badge&logo=google-classroom&logoColor=white" alt="University" />
     </a>
-    <a href="#-connect-with-me">
-      <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20OPPORTUNITIES-10b981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Open for Opportunities" />
+    <a href="mailto:nmquang132007@gmail.com">
+      <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIP-10b981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Open for Opportunities" />
     </a>
   </p>
 
-  <!-- Connect / Social Pills -->
+  <!-- ==================== 4. QUICK CONTACT PILLS ==================== -->
   <p align="center">
     <a href="https://www.linkedin.com/in/minhquang-nguyen/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=0a192f" height="28" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Minh%20Quang%20Nguyen-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f172a" height="26" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://github.com/MinhQuangNguyen321" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&label=GitHub&labelColor=0a192f" height="28" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-MinhQuangNguyen321-181717?style=flat-square&logo=github&logoColor=white&labelColor=0f172a" height="26" alt="GitHub" />
     </a>
     &nbsp;
     <a href="mailto:nmquang132007@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&label=nmquang132007@gmail.com&labelColor=0a192f" height="28" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-nmquang132007%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0f172a" height="26" alt="Email" />
     </a>
     &nbsp;
     <a href="tel:0354477874">
-      <img src="https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white&label=0354.477.874&labelColor=0a192f" height="28" alt="Phone" />
+      <img src="https://img.shields.io/badge/Phone-0354.477.874-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0f172a" height="26" alt="Phone" />
     </a>
   </p>
 
@@ -47,97 +51,141 @@
 
 ---
 
-### 👨‍💻 Executive Summary
+### 🖥️ Hero Dashboard & Executive Profile
 
 ```json
 {
-  "developer": {
-    "name": "Nguyen Minh Quang",
-    "university": "University of Information Technology (UIT), VNU-HCM",
-    "academic_year": "Sophomore (2nd Year) — Computer Science",
-    "mission": "Bridging polished UI/UX with resilient, high-throughput enterprise backends",
-    "mastered_layer": [
-      "Modern React",
-      "Next.js App Router",
+  "engineer": {
+    "name": "Nguyễn Minh Quang",
+    "title": "Computer Science Student @ UIT | Software Engineer in Progress",
+    "education": "University of Information Technology (UIT), VNU-HCM (Sophomore / Year 2)",
+    "mission": "Architecting resilient, high-throughput enterprise backends paired with modern frontend excellence",
+    "mastered": [
+      "HTML5/CSS3/SCSS",
+      "JavaScript (ES6+)",
       "TypeScript",
-      "Tailwind CSS",
-      "CI/CD"
+      "React 19",
+      "Next.js 16 (App Router)",
+      "Tailwind",
+      "Redux/Zustand",
+      "TanStack Query",
+      "CI/CD GitHub Actions"
     ],
     "active_sprint": [
-      "Java Core & Concurrency",
-      "Spring Boot",
+      "Java Core (Multithreading/Streams/OOP)",
       "SQL Server",
-      "System Design"
+      "Spring Boot 3",
+      "Postman API Design"
     ],
-    "target_roles": [
-      "Java Backend Intern",
-      "Full-Stack Intern",
-      "Software Engineering Intern 2025/2026"
-    ]
+    "roadmap_target": [
+      "Microservices Architecture",
+      "Docker",
+      "AWS (EC2, S3, RDS)",
+      "System Design",
+      "DSA LeetCode"
+    ],
+    "status": "Ready for Software Engineer / Java Backend Internship 2025-2026"
   }
 }
 ```
 
-- 🎓 **Second-year Computer Science student** at **University of Information Technology (UIT), VNU-HCM**, with a strong engineering discipline and GPA focus.
-- 🚀 **Full-Stack Competence**: Successfully mastered modern frontend ecosystems (React, Next.js App Router, TypeScript, state architectures with Redux Toolkit/Zustand & TanStack Query).
-- ⚡ **Enterprise Backend Specialization**: Rapidly engineering enterprise backend microservices with **Java Core**, **Spring Boot**, **SQL Server**, and **RESTful API Design**.
-- 🛠️ **DevOps & Clean Code Advocate**: Emphasizing automated CI/CD workflows (GitHub Actions), Docker containerization, and structured design patterns.
-- 🎯 **Current Milestone**: Finalizing a production-ready **Full-Stack CV / Career Platform** integrating Next.js 14 with a Java Spring Boot & SQL Server API layer.
+---
+
+### ⭐ Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="33.3%" valign="top">
+      <div align="center">
+        <h4>🛍️ E-Commerce Digital Storefront</h4>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <br />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" />
+          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        </p>
+      </div>
+      <ul>
+        <li><b>App Router Architecture:</b> Leveraging Next.js 16 Server Actions, parallel routes, and ISR for ultra-fast catalog hydration.</li>
+        <li><b>State & Optimistic UI:</b> Zustand for lightweight client cart + TanStack Query for cache invalidation.</li>
+        <li><b>Performance:</b> 98+ Core Web Vitals with dynamic image optimization & zero CLS.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/MinhQuangNguyen321"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" /></a>
+        <a href="https://github.com/MinhQuangNguyen321"><img src="https://img.shields.io/badge/Live-Demo-06b6d4?style=flat-square&logo=vercel" /></a>
+      </p>
+    </td>
+    <td width="33.3%" valign="top">
+      <div align="center">
+        <h4>💼 Enterprise CV &amp; Career Builder</h4>
+        <p>
+          <img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+          <img src="https://img.shields.io/badge/Java%20Core-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+          <br />
+          <img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+          <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+          <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        </p>
+      </div>
+      <ul>
+        <li><b>Security & Auth:</b> Stateless authentication with Spring Security &amp; JWT, Role-Based Access Control (RBAC).</li>
+        <li><b>Relational Persistence:</b> Normalized Microsoft SQL Server schema with indexed views and optimized query plans.</li>
+        <li><b>API Design:</b> RESTful architecture with DTO validation, custom exception handlers, and Postman test suites.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/MinhQuangNguyen321"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" /></a>
+        <a href="https://github.com/MinhQuangNguyen321"><img src="https://img.shields.io/badge/API-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="33.3%" valign="top">
+      <div align="center">
+        <h4>💬 Real-Time Pulse Chat Engine</h4>
+        <p>
+          <img src="https://img.shields.io/badge/Spring%20WebSocket-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+          <img src="https://img.shields.io/badge/STOMP-222222?style=flat-square" />
+          <br />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+          <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        </p>
+      </div>
+      <ul>
+        <li><b>Full-Duplex Communication:</b> Low-latency bi-directional messaging with Spring WebSocket and STOMP sub-protocol.</li>
+        <li><b>Presence & State:</b> Live heartbeat connection monitoring, message delivery acknowledgments, and chat rooms.</li>
+        <li><b>Containerized:</b> Dockerized microservice ready for AWS ECS deployment with environment-based config.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/MinhQuangNguyen321"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" /></a>
+        <a href="https://github.com/MinhQuangNguyen321"><img src="https://img.shields.io/badge/Docker-Hub-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🧰 Tech Stack & Arsenal
+### 🧰 Tech Stack Arsenal
 
 <div align="center">
 
-#### 🌐 Frontend & Client-Side Architecture `[Mastered ✅]`
+#### 🌐 Frontend & Client-Side Mastery `[✅ 100% Completed]`
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,redux" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,redux" />
 </p>
 
-| Category                  | Technologies & Tools                                               |
-| :------------------------ | :----------------------------------------------------------------- |
-| **Core Languages**        | `HTML5`, `CSS3`, `JavaScript (ES6+)`, `TypeScript`                 |
-| **Frameworks & Libs**     | `React.js (v18/v19)`, `Next.js (App Router, SSR/SSG/ISR)`          |
-| **Styling & Design**      | `Tailwind CSS`, `SCSS / Sass`, `Bootstrap 5`, Modern Responsive UI |
-| **State & Data Fetching** | `Redux Toolkit`, `Zustand`, `TanStack Query (React Query)`         |
+`HTML5` • `CSS3` • `JavaScript (ES6+)` • `TypeScript` • `React 19` • `Next.js 16 (App Router)` • `Tailwind CSS` • `SCSS` • `Bootstrap` • `Redux Toolkit` • `Zustand` • `TanStack Query`
 
 <br />
 
-#### ⚙️ Backend, Persistence & APIs `[In Active Mastery ⏳]`
+#### ⚙️ Backend, Persistence & System Core `[⏳ Active Sprint ~75%]`
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mssql,postman" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,mssql,postman,docker,aws,git,githubactions" />
 </p>
 
-| Category               | Technologies & Tools                                                       |
-| :--------------------- | :------------------------------------------------------------------------- |
-| **Backend Core**       | `Java Core (OOP, Multithreading, Generics, Stream API, Collections)`       |
-| **Framework & ORM**    | `Spring Boot`, `Spring MVC`, `Spring Security (JWT)`, `Spring Data JPA`    |
-| **Database & Storage** | `Microsoft SQL Server (T-SQL, Stored Procedures, Indexing, Schema Design)` |
-| **API Engineering**    | `RESTful API Architecture`, `Postman (Automation, Testing, Mocking)`       |
-
-<br />
-
-#### ☁️ DevOps, Cloud & System Architecture `[In Progress / Roadmap ⏳]`
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws" />
-  </a>
-</p>
-
-| Category                        | Technologies & Tools                                                    |
-| :------------------------------ | :---------------------------------------------------------------------- |
-| **Version Control & CI/CD**     | `Git`, `GitHub`, `GitHub Actions (Automated Linting, Testing & Deploy)` |
-| **Containers & Virtualization** | `Docker`, `Dockerfile`, `Docker Compose`                                |
-| **Cloud Computing**             | `AWS (EC2, S3, RDS, CloudWatch fundamentals)`                           |
-| **Architecture & Patterns**     | `Microservices Architecture`, `Distributed Caching`, `System Design`    |
+`Java Core (OOP, Multithreading, Streams)` • `Spring Boot 3` • `SQL Server` • `Postman API Testing` • `Docker` • `AWS` • `Microservices` • `System Design` • `Git & GitHub Actions CI/CD`
 
 </div>
 
@@ -145,68 +193,28 @@
 
 ### 🗺️ Engineering Roadmap & Progression Matrix
 
-> _A transparent, goal-oriented tracking of technical milestones toward becoming an elite Software Engineer._
-
 ```
-Frontend & Tools Mastery      [██████████████████████████████] 100% (Completed)
-Enterprise Backend (Java/SQL) [████████████████████░░░░░░░░░░]  70% (Active Sprint)
-Cloud & Distributed Systems   [██████████░░░░░░░░░░░░░░░░░░░░]  35% (Upcoming)
-DSA & Interview Readiness     [████████████████░░░░░░░░░░░░░░]  55% (Daily Grinding)
+Frontend & UI Architecture  [██████████████████████████████] 100% (Completed)
+Tooling & GitHub Actions    [██████████████████████████████] 100% (Completed)
+Enterprise Java & SQL Core  [████████████████████░░░░░░░░░░]  75% (Active Sprint)
+Microservices, Docker & AWS [██████████░░░░░░░░░░░░░░░░░░░░]  35% (Upcoming)
+DSA & Mock Interview Prep   [████████████████░░░░░░░░░░░░░░]  55% (Daily Grinding)
 ```
 
-| Phase  | Milestone / Domain                    | Key Competencies                                                              |                                                    Status                                                     |
-| :----: | :------------------------------------ | :---------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------: |
-| **01** | **Modern Frontend Foundation**        | HTML5 Semantic, Modern CSS3 Flexbox/Grid, SCSS, Bootstrap                     | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" />  |
-| **02** | **JavaScript & TypeScript Deep Dive** | ES6+ Features, Closures, Async/Await, Strict Typing, Generics                 | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" />  |
-| **03** | **React & Next.js Ecosystem**         | React Hooks, App Router, Server Components, SSR/SSG/ISR, Tailwind             | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" />  |
-| **04** | **State Management & Data Layer**     | Redux Toolkit, Zustand, TanStack Query (Caching, Invalidation, Optimistic UI) | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" />  |
-| **05** | **Git & CI/CD Pipelines**             | Git Flow, Semantic Commits, PR Workflows, GitHub Actions Automation           | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" />  |
-| **06** | **Java Core Fundamentals**            | OOP, Collections Framework, Multithreading & Concurrency, Stream API          |  <img src="https://img.shields.io/badge/IN%20SPRINT-38bdf8?style=flat-square&logo=clock&logoColor=white" />   |
-| **07** | **Relational Databases & SQL**        | SQL Server, Schema Optimization, Indexing Strategies, Complex Joins           |  <img src="https://img.shields.io/badge/IN%20SPRINT-38bdf8?style=flat-square&logo=clock&logoColor=white" />   |
-| **08** | **Enterprise Spring & Postman**       | Spring Boot, Spring Security (JWT), Hibernate/JPA, Postman API Testing        |  <img src="https://img.shields.io/badge/IN%20SPRINT-38bdf8?style=flat-square&logo=clock&logoColor=white" />   |
-| **09** | **Containerization & Cloud**          | Docker, Docker Compose, AWS Fundamentals (EC2, S3, RDS)                       |   <img src="https://img.shields.io/badge/UPCOMING-f59e0b?style=flat-square&logo=target&logoColor=white" />    |
-| **10** | **Microservices & System Design**     | Service Discovery, API Gateway, Message Queues, High Availability             |   <img src="https://img.shields.io/badge/UPCOMING-f59e0b?style=flat-square&logo=target&logoColor=white" />    |
-| **11** | **DSA & Problem Solving**             | Arrays, Linked Lists, Trees, Graphs, Dynamic Programming (LeetCode)           |   <img src="https://img.shields.io/badge/ACTIVE-818cf8?style=flat-square&logo=leetcode&logoColor=white" />    |
-| **12** | **CV & Technical Interview Prep**     | System Design Mock, Deep Technical Q&A, Live Coding Scenarios                 | <img src="https://img.shields.io/badge/TARGET%202025-ec4899?style=flat-square&logo=target&logoColor=white" /> |
-
----
-
-### 🏆 Featured Capstone Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">💼 Full-Stack Enterprise Career & CV Platform</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      </p>
-      <ul>
-        <li><b>Architecture:</b> Decoupled client-server architecture with Next.js App Router frontend and Spring Boot REST API backend.</li>
-        <li><b>Security:</b> Stateless authentication with JWT, Role-based Access Control (RBAC), and encrypted credential storage.</li>
-        <li><b>Persistence:</b> Optimized SQL Server schemas with index-tuned relational queries.</li>
-        <li><b>Status:</b> Actively serving as capstone portfolio application.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">⚡ High-Performance Next.js Web Ecosystem</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" />
-        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-      </p>
-      <ul>
-        <li><b>State & Cache:</b> Hybrid client state using Zustand combined with TanStack Query for cache invalidation & optimistic updates.</li>
-        <li><b>Performance:</b> 95+ Core Web Vitals score using Next.js image optimization and route handlers.</li>
-        <li><b>Automation:</b> End-to-end CI/CD pipeline via GitHub Actions verifying types, linting, and build integrity on every push.</li>
-        <li><b>Status:</b> Production deployed & continuously maintained.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Domain                      | Milestones & Technologies                                           | Target Application                                               |                                                    Status                                                     |
+| :-------------------------- | :------------------------------------------------------------------ | :--------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------: |
+| **Frontend Foundation**     | HTML5, CSS3, SCSS, Bootstrap, Tailwind CSS                          | Pixel-perfect, accessible, mobile-first responsive UIs           | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" />  |
+| **Modern JS & TS**          | JavaScript (ES6+), Strict TypeScript, Generics, Async/Await         | Enterprise type safety, zero-runtime-error discipline            | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" />  |
+| **React & Next.js 16**      | React 19, Next.js 16 App Router, Server Actions, SSR/SSG/ISR        | High-throughput web applications with sub-second LCP             | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" />  |
+| **State & Cache Layer**     | Redux Toolkit, Zustand, TanStack Query                              | Client state isolation, optimistic updates, cache invalidation   | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" />  |
+| **Version & CI/CD**         | Git, GitHub Flow, Semantic Commits, GitHub Actions                  | Automated build integrity, code quality gates, continuous deploy | <img src="https://img.shields.io/badge/COMPLETED-10b981?style=flat-square&logo=checkmarx&logoColor=white" />  |
+| **Java Core & Concurrency** | OOP Principles, Collections Framework, Multithreading, Stream API   | High-concurrency backend foundational computing                  |  <img src="https://img.shields.io/badge/IN%20SPRINT-38bdf8?style=flat-square&logo=clock&logoColor=white" />   |
+| **Relational Database**     | Microsoft SQL Server (T-SQL, Stored Procedures, Index Tuning)       | Normalized relational storage, sub-millisecond query execution   |  <img src="https://img.shields.io/badge/IN%20SPRINT-38bdf8?style=flat-square&logo=clock&logoColor=white" />   |
+| **Spring Boot & Postman**   | Spring Boot 3, Spring Security (JWT), Data JPA, Postman Collections | Production-ready RESTful APIs with automated integration tests   |  <img src="https://img.shields.io/badge/IN%20SPRINT-38bdf8?style=flat-square&logo=clock&logoColor=white" />   |
+| **Containers & Cloud**      | Docker, Docker Compose, AWS Fundamentals (EC2, S3, RDS)             | Isolated containerized services with cloud elasticity            |   <img src="https://img.shields.io/badge/UPCOMING-f59e0b?style=flat-square&logo=target&logoColor=white" />    |
+| **Microservices & System**  | Service Discovery, API Gateway, Message Queues, High Availability   | Scalable distributed architectures & system design trade-offs    |   <img src="https://img.shields.io/badge/UPCOMING-f59e0b?style=flat-square&logo=target&logoColor=white" />    |
+| **DSA & Problem Solving**   | LeetCode Patterns (Arrays, Trees, Graphs, Dynamic Programming)      | Analytical reasoning and algorithm optimization                  |   <img src="https://img.shields.io/badge/ACTIVE-818cf8?style=flat-square&logo=leetcode&logoColor=white" />    |
+| **Career & Interview**      | Technical CV, System Design Mock, Deep Technical Interviews         | Securing 2025/2026 Software Engineer Internship                  | <img src="https://img.shields.io/badge/TARGET%202025-ec4899?style=flat-square&logo=target&logoColor=white" /> |
 
 ---
 
@@ -214,7 +222,7 @@ DSA & Interview Readiness     [████████████████�
 
 <div align="center">
 
-  <!-- Streak Stats & Profile Details Summary in 2 Columns -->
+  <!-- Streak Stats & Profile Stats in 2 Columns -->
   <table border="0">
     <tr>
       <td align="center" valign="top">
@@ -263,7 +271,7 @@ DSA & Interview Readiness     [████████████████�
   <br />
 
   <p>
-    <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
+    <i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i>
   </p>
 
 </div>
@@ -274,7 +282,7 @@ DSA & Interview Readiness     [████████████████�
 
 <div align="center">
 
-  <p>I am always eager to discuss <b>Software Engineering</b>, <b>Java Backend Systems</b>, <b>Internship Opportunities</b>, or innovative tech stacks!</p>
+  <p>Always open to discussing <b>Software Engineering</b>, <b>Java Backend Systems</b>, <b>Next.js 16 Web Apps</b>, or <b>Internship Opportunities</b>!</p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/minhquang-nguyen/">
@@ -296,11 +304,8 @@ DSA & Interview Readiness     [████████████████�
 
   <br />
 
-  <!-- Animated Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,40:111827,80:090d16,100:05070d&height=120&section=footer" width="100%" />
-
   <p align="center">
-    <sub>Designed with precision & continuous passion by <b>Nguyen Minh Quang</b> • Built for Top 1% Portfolio Excellence</sub>
+    <sub>Designed with precision &amp; continuous passion by <b>Nguyễn Minh Quang</b> • Built for Top 1% Portfolio Excellence</sub>
   </p>
 
 </div>
